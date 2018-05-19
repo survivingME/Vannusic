@@ -25,3 +25,7 @@
 ## 关于作者
 - 博客：https://trembleguy.com/wordpress
 - B站：https://space.bilibili.com/2478106
+
+
+## 更新
+- 修复天气显示(向高德地图申请了新的开发者ID号)
